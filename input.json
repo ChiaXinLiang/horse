@@ -1,0 +1,11 @@
+{
+    "horses": [
+      {"name": "Steelhorn", "skill": ["Sprint","Dodge"]},
+      {"name": "ArcanaCrest", "skill": ["Rotation","Heavy_blow"]},
+      {"name": "Shardik", "skill": ["Rotation","Protection"]},
+      {"name": "Oakhoof", "skill": ["Sprint","Protection"]},
+      {"name": "Scarletgem", "skill": ["Sprint","Heavy_blow"]},
+      {"name": "secret", "skill": ["Rotation","Dodge"]},
+      {"name": "Emeraldu", "skill": ["Sprint","Healing"]},
+      {"name": "Panda", "skill": ["Dodge","Healing"]}]
+  }
